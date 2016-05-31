@@ -1,0 +1,23 @@
+C:\Sem1\SMA\DependencyAnalyzer\Client2\bin\Debug\Client2.exe.config
+C:\Sem1\SMA\DependencyAnalyzer\Client2\bin\Debug\Client2.exe
+C:\Sem1\SMA\DependencyAnalyzer\Client2\bin\Debug\Client2.pdb
+C:\Sem1\SMA\DependencyAnalyzer\Client2\obj\Debug\Client2.exe
+C:\Sem1\SMA\DependencyAnalyzer\Client2\obj\Debug\Client2.pdb
+C:\Sem1\SMA\Client2\bin\Debug\Client2.exe.config
+C:\Sem1\SMA\Client2\obj\Debug\Client2.exe
+C:\Sem1\SMA\Client2\obj\Debug\Client2.pdb
+C:\Sem1\Proj4\ClientMain2\Client2\bin\Debug\Client2.exe.config
+C:\Sem1\Proj4\ClientMain2\Client2\obj\Debug\Client2.exe
+C:\Sem1\Proj4\ClientMain2\Client2\obj\Debug\Client2.pdb
+C:\Sem1\Proj4\ClientMain2\Client2\bin\Debug\Client2.exe
+C:\Sem1\Proj4\ClientMain2\Client2\bin\Debug\Client2.pdb
+C:\Sem1\Proj4\ClientMain2\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+C:\Users\Sahithi\Desktop\sma_depdency\Proj4-Dependency Analyzer\ClientMain2\Client2\bin\Debug\Client2.exe.config
+C:\Users\Sahithi\Desktop\sma_depdency\Proj4-Dependency Analyzer\ClientMain2\Client2\obj\Debug\Client2.exe
+C:\Users\Sahithi\Desktop\sma_depdency\Proj4-Dependency Analyzer\ClientMain2\Client2\obj\Debug\Client2.pdb
+C:\Users\Sahithi\Desktop\sma_depdency\Proj4-Dependency Analyzer\ClientMain2\Client2\bin\Debug\Client2.exe
+C:\Users\Sahithi\Desktop\sma_depdency\Proj4-Dependency Analyzer\ClientMain2\Client2\bin\Debug\Client2.pdb
+C:\Users\Sahithi\Desktop\sma_depdency\Proj4-Dependency Analyzer\ClientMain2\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+C:\Users\Sahithi\Desktop\sma_depdency_final\Proj4-Dependency Analyzer\Client2\client_2\Client2\bin\Debug\Client2.exe.config
+C:\Users\Sahithi\Desktop\sma_depdency_final\Proj4-Dependency Analyzer\Client2\client_2\Client2\obj\Debug\Client2.exe
+C:\Users\Sahithi\Desktop\sma_depdency_final\Proj4-Dependency Analyzer\Client2\client_2\Client2\obj\Debug\Client2.pdb

@@ -1,0 +1,11 @@
+C:\SU\CSE775\CODE\WCF samples\Basic\Service\Hosting\SelfHost\CS\client\bin\client.exe.config
+C:\SU\CSE775\CODE\WCF samples\Basic\Service\Hosting\SelfHost\CS\client\bin\client.exe
+C:\SU\CSE775\CODE\WCF samples\Basic\Service\Hosting\SelfHost\CS\client\bin\client.pdb
+C:\SU\CSE775\CODE\WCF samples\Basic\Service\Hosting\SelfHost\CS\client\obj\Debug\ResolveAssemblyReference.cache
+C:\SU\CSE775\CODE\WCF samples\Basic\Service\Hosting\SelfHost\CS\client\obj\Debug\Properties.Resources.resources
+C:\SU\CSE775\CODE\WCF samples\Basic\Service\Hosting\SelfHost\CS\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\SU\CSE775\CODE\WCF samples\Basic\Service\Hosting\SelfHost\CS\client\obj\Debug\client.exe
+C:\SU\CSE775\CODE\WCF samples\Basic\Service\Hosting\SelfHost\CS\client\obj\Debug\client.pdb
+C:\SU\CSE775\CODE\WCF_SelfHost\client\bin\client.exe.config
+C:\SU\CSE775\CODE\WCF_SelfHost\client\obj\Debug\client.exe
+C:\SU\CSE775\CODE\WCF_SelfHost\client\obj\Debug\client.pdb

@@ -1,0 +1,1 @@
+C:\su\CSE775\CODE\WCF_SelfHost\service\bin\service.exe.config

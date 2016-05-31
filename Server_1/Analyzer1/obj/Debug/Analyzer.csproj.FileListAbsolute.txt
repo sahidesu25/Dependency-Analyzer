@@ -1,0 +1,56 @@
+C:\Users\Mamta\Desktop\CodeAnalyzer\Analyzer\bin\Debug\Analyzer.exe.config
+C:\Users\Mamta\Desktop\CodeAnalyzer\Analyzer\bin\Debug\Analyzer.exe
+C:\Users\Mamta\Desktop\CodeAnalyzer\Analyzer\bin\Debug\Analyzer.pdb
+C:\Users\Mamta\Desktop\CodeAnalyzer\Analyzer\bin\Debug\Parser.exe
+C:\Users\Mamta\Desktop\CodeAnalyzer\Analyzer\bin\Debug\Parser.pdb
+C:\Users\Mamta\Desktop\CodeAnalyzer\Analyzer\obj\Debug\Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Mamta\Desktop\CodeAnalyzer\Analyzer\obj\Debug\Analyzer.exe
+C:\Users\Mamta\Desktop\CodeAnalyzer\Analyzer\obj\Debug\Analyzer.pdb
+C:\Users\Dhaval\Desktop\CodeAnalyzer\Analyzer\bin\Debug\Analyzer.exe.config
+C:\Users\Dhaval\Desktop\CodeAnalyzer\Analyzer\bin\Debug\Analyzer.exe
+C:\Users\Dhaval\Desktop\CodeAnalyzer\Analyzer\bin\Debug\Analyzer.pdb
+C:\Users\Dhaval\Desktop\CodeAnalyzer\Analyzer\bin\Debug\Parser.exe
+C:\Users\Dhaval\Desktop\CodeAnalyzer\Analyzer\bin\Debug\Parser.pdb
+C:\Users\Dhaval\Desktop\CodeAnalyzer\Analyzer\obj\Debug\Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Dhaval\Desktop\CodeAnalyzer\Analyzer\obj\Debug\Analyzer.exe
+C:\Users\Dhaval\Desktop\CodeAnalyzer\Analyzer\obj\Debug\Analyzer.pdb
+C:\Sem1\SMA\DependencyAnalyzer\Analyzer\bin\Debug\Analyzer.exe.config
+C:\Sem1\SMA\DependencyAnalyzer\Analyzer\bin\Debug\Analyzer.exe
+C:\Sem1\SMA\DependencyAnalyzer\Analyzer\bin\Debug\Analyzer.pdb
+C:\Sem1\SMA\DependencyAnalyzer\Analyzer\bin\Debug\Parser.exe
+C:\Sem1\SMA\DependencyAnalyzer\Analyzer\bin\Debug\Parser.pdb
+C:\Sem1\SMA\DependencyAnalyzer\Analyzer\obj\Debug\Analyzer.csprojResolveAssemblyReference.cache
+C:\Sem1\SMA\DependencyAnalyzer\Analyzer\obj\Debug\Analyzer.exe
+C:\Sem1\SMA\DependencyAnalyzer\Analyzer\obj\Debug\Analyzer.pdb
+C:\Sem1\Proj4\ServerMain1\Analyzer1\bin\Debug\Analyzer.exe.config
+C:\Sem1\Proj4\ServerMain1\Analyzer1\bin\Debug\Analyzer.exe
+C:\Sem1\Proj4\ServerMain1\Analyzer1\bin\Debug\Analyzer.pdb
+C:\Sem1\Proj4\ServerMain1\Analyzer1\bin\Debug\Parser.exe
+C:\Sem1\Proj4\ServerMain1\Analyzer1\bin\Debug\Parser.pdb
+C:\Sem1\Proj4\ServerMain1\Analyzer1\obj\Debug\Analyzer.csprojResolveAssemblyReference.cache
+C:\Sem1\Proj4\ServerMain1\Analyzer1\obj\Debug\Analyzer.exe
+C:\Sem1\Proj4\ServerMain1\Analyzer1\obj\Debug\Analyzer.pdb
+C:\Users\Sahithi\Desktop\sma_depdency\Proj4-Dependency Analyzer\ServerMain1\Analyzer1\bin\Debug\Analyzer.exe.config
+C:\Users\Sahithi\Desktop\sma_depdency\Proj4-Dependency Analyzer\ServerMain1\Analyzer1\bin\Debug\Analyzer.exe
+C:\Users\Sahithi\Desktop\sma_depdency\Proj4-Dependency Analyzer\ServerMain1\Analyzer1\bin\Debug\Analyzer.pdb
+C:\Users\Sahithi\Desktop\sma_depdency\Proj4-Dependency Analyzer\ServerMain1\Analyzer1\bin\Debug\Parser.exe
+C:\Users\Sahithi\Desktop\sma_depdency\Proj4-Dependency Analyzer\ServerMain1\Analyzer1\bin\Debug\Parser.pdb
+C:\Users\Sahithi\Desktop\sma_depdency\Proj4-Dependency Analyzer\ServerMain1\Analyzer1\obj\Debug\Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Sahithi\Desktop\sma_depdency\Proj4-Dependency Analyzer\ServerMain1\Analyzer1\obj\Debug\Analyzer.exe
+C:\Users\Sahithi\Desktop\sma_depdency\Proj4-Dependency Analyzer\ServerMain1\Analyzer1\obj\Debug\Analyzer.pdb
+C:\Users\Sahithi\Desktop\sma_depdency_final\Proj4-Dependency Analyzer\ServerMain1\Analyzer1\bin\Debug\Analyzer.exe.config
+C:\Users\Sahithi\Desktop\sma_depdency_final\Proj4-Dependency Analyzer\ServerMain1\Analyzer1\bin\Debug\Analyzer.exe
+C:\Users\Sahithi\Desktop\sma_depdency_final\Proj4-Dependency Analyzer\ServerMain1\Analyzer1\bin\Debug\Analyzer.pdb
+C:\Users\Sahithi\Desktop\sma_depdency_final\Proj4-Dependency Analyzer\ServerMain1\Analyzer1\bin\Debug\Parser.exe
+C:\Users\Sahithi\Desktop\sma_depdency_final\Proj4-Dependency Analyzer\ServerMain1\Analyzer1\bin\Debug\Parser.pdb
+C:\Users\Sahithi\Desktop\sma_depdency_final\Proj4-Dependency Analyzer\ServerMain1\Analyzer1\obj\Debug\Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Sahithi\Desktop\sma_depdency_final\Proj4-Dependency Analyzer\ServerMain1\Analyzer1\obj\Debug\Analyzer.exe
+C:\Users\Sahithi\Desktop\sma_depdency_final\Proj4-Dependency Analyzer\ServerMain1\Analyzer1\obj\Debug\Analyzer.pdb
+C:\Users\Sahithi\Desktop\sma_depdency_bat\Proj4-Dependency Analyzer\Server_1\Analyzer1\bin\Debug\Analyzer.exe.config
+C:\Users\Sahithi\Desktop\sma_depdency_bat\Proj4-Dependency Analyzer\Server_1\Analyzer1\obj\Debug\Analyzer.exe
+C:\Users\Sahithi\Desktop\sma_depdency_bat\Proj4-Dependency Analyzer\Server_1\Analyzer1\obj\Debug\Analyzer.pdb
+C:\Users\Sahithi\Desktop\sma_depdency_bat\Proj4-Dependency Analyzer\Server_1\Analyzer1\bin\Debug\Analyzer.exe
+C:\Users\Sahithi\Desktop\sma_depdency_bat\Proj4-Dependency Analyzer\Server_1\Analyzer1\bin\Debug\Analyzer.pdb
+C:\Users\Sahithi\Desktop\sma_depdency_bat\Proj4-Dependency Analyzer\Server_1\Analyzer1\bin\Debug\Parser.exe
+C:\Users\Sahithi\Desktop\sma_depdency_bat\Proj4-Dependency Analyzer\Server_1\Analyzer1\bin\Debug\Parser.pdb
+C:\Users\Sahithi\Desktop\sma_depdency_bat\Proj4-Dependency Analyzer\Server_1\Analyzer1\obj\Debug\Analyzer.csprojResolveAssemblyReference.cache
